@@ -27,7 +27,7 @@ set -e
 VER2=2.8.17
 VER3=3.22.0
 VER3X=3220000
-VERZ=1.2.8
+VERZ=1.2.11
 TCCVER=0.9.26
 
 nov2=false
